@@ -1,5 +1,7 @@
+import Navbar from "./Components/Navbar";
+
 function App() {
-  return <h1>Rick and Morty</h1>;
+  return <Navbar brand={"Rick n Morty"} />;
 }
 
 export default App;
