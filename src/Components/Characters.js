@@ -12,6 +12,8 @@ function Characters({ characters = [] }) {
               <hr />
               <p>Location: {item.location.name}</p>
               <p>Specie: {item.species}</p>
+              <p>Gender: {item.gender}</p>
+              <p>Status: {item.status}</p>
             </div>
           </div>
         </div>
