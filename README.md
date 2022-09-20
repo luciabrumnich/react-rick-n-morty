@@ -1,4 +1,6 @@
 # <h1 align='center'>Rick n Morty</h1>
+<h1 align='center'>🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪 🚀 🧬 🧪</h1>
+
 ## Live demo [here](https://luciabrumnich.github.io/react-rick-n-morty/).
 
 
